@@ -6,11 +6,13 @@ Bloggist theme cloned from wordpress theme using HTML/CSS in fully responsive mo
 <br>
 
 ####Desktop mode
+
 ![Desktop](./assets/images/demo-pics/desktop-mode.png)
 
 <br>
 
 ####Responsive mode
+
 ![Responsive](./assets/images/demo-pics/resp.png)
 
 <br/>
